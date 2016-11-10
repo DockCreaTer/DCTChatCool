@@ -1,6 +1,6 @@
-name: ChatCooldown
+name: DCTChatCool
 version: 1.0.0
-author: applqpak
+author: DockCreaTer
 api:
 - 1.0.0
 - 2.0.0
